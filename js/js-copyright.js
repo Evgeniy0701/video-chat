@@ -1,0 +1,2 @@
+document.getElementById("js-copyright").setAttribute('style', 'white-space: pre; letter-spacing: -0.8px;');
+document.getElementById("js-copyright").textContent = "Comewel Limited, Holgate Regus Tower Court, Oakdale Road, Clifton Moor, York, England, YO30 4XL";
